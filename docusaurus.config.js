@@ -73,7 +73,7 @@ const config = {
             label: 'Mriya',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/HolySwitch',
             label: 'GitHub',
             position: 'right',
           },
@@ -86,8 +86,12 @@ const config = {
             title: 'Community',
             items: [
               {
+                label: 'GitHub',
+                href: 'https://github.com/HolySwitch',
+              },
+              {
                 label: 'Telegram',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://t.me/holyswitch',
               },
             ],
           },
